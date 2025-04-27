@@ -1,0 +1,30 @@
+[submodule "Education_part/mle-airflow"]
+	path = Education_part/mle-airflow
+	url = https://github.com/Reustlin/mle-airflow.git
+[submodule "Education_part/mle-dvc"]
+	path = Education_part/mle-dvc
+	url = https://github.com/Reustlin/mle-dvc.git
+[submodule "Education_part/mle-mlflow-2"]
+	path = Education_part/mle-mlflow-2
+	url = https://github.com/Reustlin/mle-mlflow-2.git
+[submodule "Education_part/mle-mlflow"]
+	path = Education_part/mle-mlflow
+	url = https://github.com/Reustlin/mle-mlflow.git
+[submodule "Education_part/mle-recsys-start"]
+	path = Education_part/mle-recsys-start
+	url = https://github.com/Reustlin/mle-recsys-start.git
+[submodule "Education_part/mle-sprint3"]
+	path = Education_part/mle-sprint3
+	url = https://github.com/Reustlin/mle-sprint3.git
+[submodule "mle-project-sprint-1-v001"]
+	path = mle-project-sprint-1-v001
+	url = https://github.com/Reustlin/mle-project-sprint-1-v001.git
+[submodule "mle-project-sprint-2-v001"]
+	path = mle-project-sprint-2-v001
+	url = https://github.com/Reustlin/mle-project-sprint-2-v001.git
+[submodule "mle-project-sprint-3-v001"]
+	path = mle-project-sprint-3-v001
+	url = https://github.com/Reustlin/mle-project-sprint-3-v001.git
+[submodule "mle-project-sprint-4-v001"]
+	path = mle-project-sprint-4-v001
+	url = https://github.com/Reustlin/mle-project-sprint-4-v001.git
