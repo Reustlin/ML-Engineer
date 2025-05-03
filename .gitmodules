@@ -28,3 +28,6 @@
 [submodule "mle-project-sprint-4-v001"]
 	path = mle-project-sprint-4-v001
 	url = https://github.com/Reustlin/mle-project-sprint-4-v001.git
+[submodule "mle-pr-final"]
+	path = mle-pr-final
+	url = https://github.com/Reustlin/mle-pr-final.git
